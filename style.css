@@ -40,5 +40,6 @@ nav li {
   text-align: center;
 }
 nav { 
-  background-color: #27496D
+  background-color: #27496D;
+  padding: 20px;
 }
