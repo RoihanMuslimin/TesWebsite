@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap');
+
+* {
+  box-sizing: border-box
+}
+h3 {
+    font-family:  'Oswald', sans-serif;
+}
+#lorem::first-letter {
+  font-weight: bold;
+  font-size: 25px;
+  color: #393E46;
+}
+nav a {
+  font-size: 20px;
+  font-weight: 200;
+  text-decoration: none;
+}
+nav a:hover {
+  text-weight: bold;
+  color: #E43F54;
+}
+footer {
+  padding: 25px;
+  font-weight: bold;
+  background-color: #BBE1FA;
+  text-align: center;
+  color: white;
+}
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  padding: 10px;
+  margin: 20px;
+}
+nav li {
+  display: inline;
+  padding: 10px;
+  text-align: center;
+}
