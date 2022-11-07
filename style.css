@@ -2,6 +2,8 @@
 
 * {
   box-sizing: border-box
+  padding: 0;
+  margin: 0;
 }
 h3 {
     font-family:  'Oswald', sans-serif;
@@ -38,8 +40,4 @@ nav li {
   display: inline;
   padding: 5px;
   text-align: center;
-}
-nav { 
-  background-color: #27496D;
-  padding: 20px;
 }
